@@ -16,4 +16,7 @@ I can be reached at **meaj.mailbox@gmail.com** for buisiness opportunities, ~~qu
 Watch some videos I (occasionally) make [here](https://www.youtube.com/channel/UC9_9vFneCA4rA2FWsUTf15A)
 ## Throw me a bone 🦴:
 🐕 DOGE tips: DGG5dquk6vqaB7SaJfxXF2zztaJBX8CYmF
+
+🧄 GRLC tips: MKpT3pedQzWDPnbGhKYc8aaeiPVHZB7A1G
+
 💠 ETH tips: 0xe413F43f7a73243333Bf12842BE07a7eE6A51eE7
