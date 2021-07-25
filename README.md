@@ -1,4 +1,4 @@
-# Hello Dear Viewers
+# Hello Dear Frens
 Welcome my gitHub, feel free to take a look at my public projects.
 ## Interesting repos ⚡:
 1. PyBoids - I try to coax some virtual birds, or boids, to flock. Learning and hilarity ensue
