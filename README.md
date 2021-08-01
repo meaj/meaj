@@ -7,7 +7,7 @@ Welcome my gitHub, feel free to take a look at my public projects.
 4. Java Projects - Evidence I am aware of Java ;)
 ## Current projects 🛠️:
 * SAAL - I have some pet algae, I'm gathering some data on them and displaying it on a web page, good times
-* meaj-creeps - I'm getting started in screeps, updates to this repo will be private by default, access can be granted on request
+* BitDoges - Programatically generated pixel art of Shiba Inus with rare traits. Images and metadata attached via IPFS to an ERC721 token (NFT). 'Minter' of each token is permitted to attach a DOGE payment address as a perk for creating the token. Release coming [soon](https://bitdoges.com) 👀
 ## Topics of interest 🌱:
 * Programatically generated Non Fungible Tokens
 * Image classification and generation
