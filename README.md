@@ -19,4 +19,4 @@ Watch some videos I (occasionally) make [here](https://www.youtube.com/channel/U
 
 🧄 GRLC tips: MKpT3pedQzWDPnbGhKYc8aaeiPVHZB7A1G
 
-💠 ETH tips: 0xe413F43f7a73243333Bf12842BE07a7eE6A51eE7
+💠 ETH tips: meaj-makes.eth
